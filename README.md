@@ -1,9 +1,6 @@
 ![Wiem Banner Image](./banner.png)
 
 <h2>Hello World! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wiem99.wiem99)](https://github.com/wiem99) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/wiem99?tab=followers)
-
 I'm Wiem Azzabi!
 
 - <i>Currently:</i> CS Student at National School of Computer Science ENSI | University of Manouba | Tunisia.
