@@ -27,15 +27,6 @@ I'm Wiem Azzabi!
   </p>
 </div>
 
-<h2>👀 Stats</h2>
-
-<div>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiem99" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-
 <h2> About Wiem⚡:</h2>
 
 Computer Science Engineering Student Living in Tunisia. Outside Tech, I love Physics astronomy psychology and social sciences,i also enjoy music and exploring nature outdoors.
