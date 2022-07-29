@@ -10,19 +10,8 @@ I'm Wiem Azzabi!
 - 🔭Software Engineering
 - 🔭 Artificial Intelligence
 
-**Check out my GitHub repository:**
+<h2> :file_folder: Check out my GitHub repositories: </h2>
 
-<div>
-
-  <p>
-    <a href="https://github.com/wiem99/Application-de-gestion-d-une-auto--cole-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiem99&repo=Application-de-gestion-d-une-auto--cole-" />
-    </a>
-    <a href="https://github.com/wiem99/Application-Qui-veut-gagner-des-millions">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=wiem99&repo=https://github.com/wiem99/Application-Qui-veut-gagner-des-millions" />
-    </a>
-  </p>
-</div>
 
 <h2> About Wiem⚡:</h2>
 
