@@ -10,14 +10,11 @@ I'm Wiem Azzabi!
 - 🔭Software Engineering
 - 🔭 Artificial Intelligence
 
-<h2> :file_folder: Check out my GitHub repositories: </h2>
-
-
 <h2> About Wiem⚡:</h2>
 
 Computer Science Engineering Student Living in Tunisia. Outside Tech, I love Physics astronomy psychology and social sciences,i also enjoy music and exploring nature outdoors.
-
-<h2>📫 How to reach me:</h2>
+<h2> :file_folder: Check out my GitHub repositories ! </h2>
+<h2>📫 Reach me at :</h2>
 
 <a href="mailto:wiem.azzabi@ensi-uma.tn">![wiem.azzabi@ensi-uma.tn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="mailto:azzabi.wiem@gmail.com">![azzabi.wiem@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
