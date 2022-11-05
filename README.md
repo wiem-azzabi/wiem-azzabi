@@ -14,6 +14,7 @@ I'm Wiem Azzabi!
 
 Computer Science Engineering Student Living in Tunisia. Outside Tech, I love Physics astronomy psychology and social sciences,i also enjoy music and exploring nature outdoors.
 <h2> :file_folder: Check out my GitHub repositories ! </h2>
+<h2> :file_folder: Check out my Kaggle portfolio  ! <a href="https://www.kaggle.com/wiemazzabi">! </h2>
 <h2>📫 Reach me at :</h2>
 
 <a href="mailto:wiem.azzabi@ensi-uma.tn">![wiem.azzabi@ensi-uma.tn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
