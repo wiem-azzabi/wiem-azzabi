@@ -9,6 +9,7 @@ I'm Wiem Azzabi!
 
 - 🔭Software Engineering
 - 🔭 Artificial Intelligence
+- 🔭 Data Science
 
 <h2> About Wiem⚡:</h2>
 
