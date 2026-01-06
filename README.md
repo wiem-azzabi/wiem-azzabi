@@ -1,19 +1,14 @@
-![Wiem Banner Image](./banner.png)
 
 <h2>Hello World! 👋</h2>
 I'm Wiem Azzabi!
 
-- <i>Currently:</i> CS Student at National School of Computer Science ENSI | University of Manouba | Tunisia.
-
-<h2>💻 I'm Currently workng on</h2>
-
-- 🔭Software Engineering
-- 🔭 Artificial Intelligence
-- 🔭 Data Science
+- <i>Currently:</i> Data Scientist / Software Engineer
 
 <h2> About Wiem⚡:</h2>
 
-Computer Science Engineering Student Living in Tunisia. Outside Tech, I love Physics astronomy psychology and social sciences,i also enjoy music and exploring nature outdoors.
+Full-time data scientist, code sorcerer, and problem whisperer. I turn messy data into insights, coffee into code, and occasionally Python and Java into poetry.
+I build, debug, and deploy with a healthy dose of curiosity and chaos.
+When I’m not wrestling datasets, you’ll find me chasing sunsets, exploring new cities, or plotting my next adventure on a map.
 <h2> :file_folder: Check out my GitHub repositories ! </h2>
 <h2> :file_folder: Check out my <a href="https://www.kaggle.com/wiemazzabi"> Kaggle </a> portfolio  ! </h2>
 <h2>📫 Reach me at :</h2>
